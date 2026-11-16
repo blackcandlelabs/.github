@@ -13,22 +13,35 @@ The wider Black Candle footprint on GitHub spans three organizations:
 
 | | |
 |---|---|
-| **Repositories** | 32 across 3 organizations |
-| **Total commits** | 1,622 |
-| **Lines of code** | — |
-| **Pull requests** | 23 open · 318 merged |
-| **Open issues** | 200 |
-| **Stars** | 10 |
+| **Repositories** | 74 across 3 organizations |
+| **Total commits** | 4,234 |
+| **Lines of code** | 1,309,334 |
+| **Pull requests** | 49 open · 799 merged |
+| **Open issues** | 308 |
+| **Stars** | 23 |
 
 ### Per organization
 
 | Organization | Repos | Commits | PRs open | PRs merged |
 |---|---|---|---|---|
 | [black-candle-technologies](https://github.com/black-candle-technologies) | 20 | 1,572 | 18 | 311 |
-| [blackcandlelabs](https://github.com/blackcandlelabs) | 9 | 47 | 5 | 7 |
+| [blackcandlelabs](https://github.com/blackcandlelabs) | 51 | 2,659 | 31 | 488 |
 | [Black-Candle-Administration](https://github.com/Black-Candle-Administration) | 3 | 3 | 0 | 0 |
 
-<sub>Updated automatically every 6 hours by the update-stats workflow in this repository. Commits are counted on each repository's default branch. Lines of code are counted with tokei across non-fork repositories (forks carry upstream history and code, so they are excluded from commit and line counts). Repositories with names starting with DELETE-ME are excluded everywhere.</sub>
+### Top languages (lines of code)
+
+| Language | Lines |
+|---|---|
+| TypeScript | 370,768 |
+| Go | 284,667 |
+| JSON | 199,701 |
+| Rust | 198,780 |
+| TSX | 126,624 |
+| YAML | 29,368 |
+| Python | 18,985 |
+| GDScript | 17,886 |
+
+<sub>Updated automatically every 6 hours by the update-stats workflow in this repository. Last update: Nov 16, 2026, 4:17 PM CT. Commits are counted on each repository's default branch. Lines of code are counted with tokei across non-fork repositories (69 of 74 repositories counted; forks carry upstream history and code, so they are excluded from commit and line counts). Repositories with names starting with DELETE-ME are excluded everywhere.</sub>
 <!-- BCT-STATS:END -->
 
 ## What we are working on
