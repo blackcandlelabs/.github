@@ -14,10 +14,10 @@ The wider Black Candle footprint on GitHub spans three organizations:
 | | |
 |---|---|
 | **Repositories** | 74 across 3 organizations |
-| **Total commits** | 4,336 |
-| **Lines of code** | 1,330,924 |
-| **Pull requests** | 49 open · 860 merged |
-| **Open issues** | 419 |
+| **Total commits** | 4,342 |
+| **Lines of code** | 1,334,103 |
+| **Pull requests** | 49 open · 865 merged |
+| **Open issues** | 430 |
 | **Stars** | 23 |
 
 ### Per organization
@@ -25,7 +25,7 @@ The wider Black Candle footprint on GitHub spans three organizations:
 | Organization | Repos | Commits | PRs open | PRs merged |
 |---|---|---|---|---|
 | [black-candle-technologies](https://github.com/black-candle-technologies) | 20 | 1,572 | 18 | 311 |
-| [blackcandlelabs](https://github.com/blackcandlelabs) | 51 | 2,761 | 31 | 549 |
+| [blackcandlelabs](https://github.com/blackcandlelabs) | 51 | 2,767 | 31 | 554 |
 | [Black-Candle-Administration](https://github.com/Black-Candle-Administration) | 3 | 3 | 0 | 0 |
 
 ### Top languages (lines of code)
@@ -33,7 +33,7 @@ The wider Black Candle footprint on GitHub spans three organizations:
 | Language | Lines |
 |---|---|
 | TypeScript | 370,806 |
-| Go | 301,584 |
+| Go | 304,646 |
 | JSON | 199,808 |
 | Rust | 198,780 |
 | TSX | 126,624 |
@@ -41,7 +41,7 @@ The wider Black Candle footprint on GitHub spans three organizations:
 | Python | 19,135 |
 | GDScript | 17,886 |
 
-<sub>Updated automatically every 6 hours by the update-stats workflow in this repository. Last update: Nov 22, 2026, 1:11 AM CT. Commits are counted on each repository's default branch. Lines of code are counted with tokei across non-fork repositories (69 of 74 repositories counted; forks carry upstream history and code, so they are excluded from commit and line counts). Repositories with names starting with DELETE-ME are excluded everywhere.</sub>
+<sub>Updated automatically every 6 hours by the update-stats workflow in this repository. Last update: Nov 22, 2026, 1:54 PM CT. Commits are counted on each repository's default branch. Lines of code are counted with tokei across non-fork repositories (69 of 74 repositories counted; forks carry upstream history and code, so they are excluded from commit and line counts). Repositories with names starting with DELETE-ME are excluded everywhere.</sub>
 <!-- BCT-STATS:END -->
 
 ## What we are working on
