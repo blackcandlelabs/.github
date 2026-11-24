@@ -14,10 +14,10 @@ The wider Black Candle footprint on GitHub spans three organizations:
 | | |
 |---|---|
 | **Repositories** | 75 across 3 organizations |
-| **Total commits** | 4,384 |
+| **Total commits** | 4,385 |
 | **Lines of code** | 1,340,104 |
-| **Pull requests** | 52 open · 882 merged |
-| **Open issues** | 429 |
+| **Pull requests** | 54 open · 882 merged |
+| **Open issues** | 454 |
 | **Stars** | 23 |
 
 ### Per organization
@@ -25,7 +25,7 @@ The wider Black Candle footprint on GitHub spans three organizations:
 | Organization | Repos | Commits | PRs open | PRs merged |
 |---|---|---|---|---|
 | [black-candle-technologies](https://github.com/black-candle-technologies) | 20 | 1,572 | 18 | 311 |
-| [blackcandlelabs](https://github.com/blackcandlelabs) | 52 | 2,809 | 34 | 571 |
+| [blackcandlelabs](https://github.com/blackcandlelabs) | 52 | 2,810 | 36 | 571 |
 | [Black-Candle-Administration](https://github.com/Black-Candle-Administration) | 3 | 3 | 0 | 0 |
 
 ### Top languages (lines of code)
@@ -41,7 +41,7 @@ The wider Black Candle footprint on GitHub spans three organizations:
 | Python | 19,135 |
 | GDScript | 17,886 |
 
-<sub>Updated automatically every 6 hours by the update-stats workflow in this repository. Last update: Nov 24, 2026, 4:11 AM CT. Commits are counted on each repository's default branch. Lines of code are counted with tokei across non-fork repositories (70 of 75 repositories counted; forks carry upstream history and code, so they are excluded from commit and line counts). Repositories with names starting with DELETE-ME are excluded everywhere.</sub>
+<sub>Updated automatically every 6 hours by the update-stats workflow in this repository. Last update: Nov 24, 2026, 4:39 PM CT. Commits are counted on each repository's default branch. Lines of code are counted with tokei across non-fork repositories (70 of 75 repositories counted; forks carry upstream history and code, so they are excluded from commit and line counts). Repositories with names starting with DELETE-ME are excluded everywhere.</sub>
 <!-- BCT-STATS:END -->
 
 ## What we are working on
