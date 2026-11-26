@@ -14,10 +14,10 @@ The wider Black Candle footprint on GitHub spans three organizations:
 | | |
 |---|---|
 | **Repositories** | 76 across 3 organizations |
-| **Total commits** | 15,755 |
-| **Lines of code** | 1,383,154 |
-| **Pull requests** | 55 open · 885 merged |
-| **Open issues** | 451 |
+| **Total commits** | 15,775 |
+| **Lines of code** | 1,364,774 |
+| **Pull requests** | 54 open · 894 merged |
+| **Open issues** | 356 |
 | **Stars** | 23 |
 
 ### Per organization
@@ -25,23 +25,23 @@ The wider Black Candle footprint on GitHub spans three organizations:
 | Organization | Repos | Commits | PRs open | PRs merged |
 |---|---|---|---|---|
 | [black-candle-technologies](https://github.com/black-candle-technologies) | 20 | 1,572 | 18 | 311 |
-| [blackcandlelabs](https://github.com/blackcandlelabs) | 53 | 14,180 | 37 | 574 |
+| [blackcandlelabs](https://github.com/blackcandlelabs) | 53 | 14,200 | 36 | 583 |
 | [Black-Candle-Administration](https://github.com/Black-Candle-Administration) | 3 | 3 | 0 | 0 |
 
 ### Top languages (lines of code)
 
 | Language | Lines |
 |---|---|
-| TypeScript | 370,948 |
-| Go | 310,081 |
-| JSON | 202,219 |
+| TypeScript | 370,959 |
+| Go | 291,713 |
+| JSON | 202,224 |
 | Rust | 199,143 |
 | TSX | 126,624 |
 | Dart | 37,430 |
 | YAML | 29,792 |
-| Python | 19,135 |
+| Python | 19,138 |
 
-<sub>Updated automatically every 6 hours by the update-stats workflow in this repository. Last update: Nov 26, 2026, 2:42 AM CT. Commits are counted on each repository's default branch. Lines of code are counted with tokei across non-fork repositories (71 of 76 repositories counted; forks carry upstream history and code, so they are excluded from commit and line counts). Repositories with names starting with DELETE-ME are excluded everywhere.</sub>
+<sub>Updated automatically every 6 hours by the update-stats workflow in this repository. Last update: Nov 26, 2026, 3:47 PM CT. Commits are counted on each repository's default branch. Lines of code are counted with tokei across non-fork repositories (71 of 76 repositories counted; forks carry upstream history and code, so they are excluded from commit and line counts). Repositories with names starting with DELETE-ME are excluded everywhere.</sub>
 <!-- BCT-STATS:END -->
 
 ## What we are working on
